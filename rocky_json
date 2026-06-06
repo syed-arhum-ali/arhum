@@ -1,0 +1,18 @@
+[
+    {
+        "user_guess": "paper",
+        "comp_guess": "scissors"
+    },
+    {
+        "user_guess": "rock",
+        "comp_guess": "rock"
+    },
+    {
+        "user_guess": "paper",
+        "comp_guess": "rock"
+    },
+    {
+        "user_guess": "scissors",
+        "comp_guess": "rock"
+    }
+]
